@@ -15,7 +15,7 @@
     "jsonwebtoken": "^9.0.2"
   },
   "devDependencies": {
-    "@sap/ux-ui5-tooling": "1",
+    "@sap/ux-ui5-tooling": "^1.19.3",
     "@ui5/cli": "^3.0.0"
   },
   "scripts": {

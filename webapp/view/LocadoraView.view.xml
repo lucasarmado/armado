@@ -49,7 +49,7 @@
                     </VBox>
                   </CustomListItem>
 
-                  <CustomListItem class="movieListItem">
+                  <!-- <CustomListItem class="movieListItem">
                     <VBox alignItems="Center">
                       <Image src="{/movies/2/image}" class="movieImage"/>
                       <Text text="{/movies/2/title}" maxLines="2" />
@@ -59,7 +59,7 @@
                           <core:Icon src="sap-icon://detail-view" press="more2" size="20px" tooltip="Sinopse do Filme" class="customIcon2"></core:Icon>
                       </HBox>
                     </VBox>
-                  </CustomListItem>
+                  </CustomListItem> -->
 
                   <CustomListItem class="movieListItem">
                     <VBox alignItems="Center">
